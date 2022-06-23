@@ -1,0 +1,115 @@
+body{
+    margin: auto 200px auto 200px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+table{
+    /* border: 1px solid springgreen; */
+    box-shadow: 0 35px 35px rgb(5, 41, 24);
+
+}
+td{
+    /* height: 200px;
+    width: 80px; */
+    /* border: 1px solid violet; */
+}
+img{
+    height: 160px;
+    width: 160px;
+    border : 2px solid rgb(238, 229, 229);
+    margin: auto 5px auto 5px;
+    border-radius: 200px;
+    padding: 3px;
+}
+.col-right{
+    width: 600px;
+    height: 300px;
+    margin-top: 100px;
+    line-height: 35px;
+    padding-left: 20px;
+}
+div{
+    background-color: rgb(2, 88, 74);
+    height: 29px;
+    margin: 1px;
+    margin-bottom: 0px;
+    padding-bottom: 0 px ;
+}
+hr{
+    margin: 0px;
+
+    width: 50px;
+}
+.left{
+    background-color: rgb(31, 102, 78);
+    width: 209px;
+    padding-left: 18px;
+    box-sizing: border-box;
+    color: azure;
+
+}
+.li-right{
+    padding-left: 20px;
+    margin-right: 80px;
+   
+}
+.right-li{
+    padding-right: 40px;
+    }
+    h3{
+        margin-bottom: 0px;
+
+    }
+    #lang {
+        line-height: 3;
+        padding-left: 11px;
+        
+    }
+    #interest{
+        line-height: 3;
+    }
+    #info{
+        line-height: 2;
+        margin-top: 36px;
+margin-bottom: 0px;
+padding-left: 13px;
+margin-left: -13px;
+    }
+    #lang-head{
+        /* margin-top: 69px;
+        margin-left: -19 px;
+        height: 28px;
+        width: 226px; */
+        margin-left: -17px;
+        padding-top: 4px;
+        width: 207.983px;
+        height: 30px;
+        margin-top: 17px;
+        margin-bottom: -8px;
+        font-weight: bolder;
+    }
+    #interest{
+        
+        margin-left: -13px;
+        margin-top: 7px;
+height: 30px;
+width: 205.983px;
+margin-top: 68px;
+margin-bottom: 0px
+    }
+    h4{
+        margin-bottom: 14.28px;
+margin-top: -43.72px;
+background-color: rgb(2, 88, 74);
+margin-bottom: 14.28px;
+margin-top: -43.72px;
+    }
+#activity{
+    margin-top: 87.72px;
+}
+#edu{
+    margin-top: 48.72px
+    
+}
+#skil{
+    margin-top: 53.72px;
+}
